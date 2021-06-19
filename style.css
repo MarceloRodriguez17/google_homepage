@@ -5,10 +5,10 @@
 
 }
 
-body {
+/* body {
     padding: 20px;
 }
-
+ */
 
 .container-top {
     display: flex;
@@ -99,7 +99,7 @@ a {
 .container-bottom {
     display: flex;
     justify-content: space-between;
-    margin-top: 330px;
+    margin-top: 320px;
 
 } 
 
